@@ -5,6 +5,6 @@ int main()
 {
     int a,b;
     c=a+b;
-    cout<<"Addition"<<a+b<<endl;
+    cout<<"Add"<<a+b<<endl;
 cout<<"*************"<<endl;
 }
